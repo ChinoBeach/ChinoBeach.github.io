@@ -31,7 +31,7 @@ github_username:  ChinoBeach
 # Build settings
 remote_theme: mmistakes/jekyll-theme-so-simple
 plugins:
-  - jekyll-feed
+  #- jekyll-feed
   - jekyll-remote-theme 
 
 # Exclude from processing.
