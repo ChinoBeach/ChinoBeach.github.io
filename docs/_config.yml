@@ -19,10 +19,10 @@ remote_theme: mmistakes/so-simple-theme
 
 locale: en-US
 title: "Chino Beach Portfolio"
-description: "A work in progress"
+description: "A Work in Progress"
 baseurl: ""
 url: "https://ChinoBeach.github.io"
-logo: "/images/so-simple-site-logo.png"
+logo: "/images/cita113.png"
 date_format: "%B %-d, %Y"
 read_time: true
 words_per_minute: # 200
@@ -38,8 +38,6 @@ google_fonts:
 google_analytics: "UA-2011187-2"
 disqus:
   shortname: "sosimpletheme"
-twitter:
-  username: "mmistakes"
 google_site_verification: "UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y"
 
 # Liquid
