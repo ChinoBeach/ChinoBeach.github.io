@@ -18,13 +18,11 @@ To play this game in your browser, follow this link: <a href="https://dabvexx.it
 ## Contributors
 
 ### Programmers
-
 * Alexander Woods
 * Caleb Brazaeu
 * Chino Beach
 
 ### Artists
-
 * Grace Fowler
 * Connor Courtoies 
 
@@ -35,6 +33,7 @@ The Global Game Jam is an annual event that brings together thousands of partici
 From Europe to Asia and everywhere in between, the Global Game Jam attracts gamers, designers, and developers from every corner of the globe. It's a celebration of innovation, creativity, and the endless possibilities of gaming. 
 
 A link to the offical Global Game Jam site: <a href="https://globalgamejam.org/">Click Here</a>
+
 A link to SUNY Morrisville's Jam site: <a href="https://globalgamejam.org/2023/jam-sites/suny-morrisville-global-game-jam">Click Here</a>
 
 
