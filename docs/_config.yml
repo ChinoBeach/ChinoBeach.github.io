@@ -25,7 +25,7 @@ url: "https://ChinoBeach.github.io"
 logo: "/images/cita113.png"
 date_format: "%B %-d, %Y"
 read_time: true
-words_per_minute: # 200
+words_per_minute: 200
 mathjax:
   enable: true
   combo: "tex-svg"
@@ -112,7 +112,7 @@ author:
   email: 18kbeach@gmail.com
  
   links:
-  
+
     - title: GitHub
       url: https://github.com/chinobeach
       icon: fab fa-github-square
