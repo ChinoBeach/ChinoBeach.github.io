@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "About Me (Bio)"
-date:   2023-04-03 16:35:30 -0400
+date:   2023-04-01 16:35:30 -0400
 categories: about_me bio blizzard
 ---
 
