@@ -32,10 +32,11 @@ The Global Game Jam is an annual event that brings together thousands of partici
 From Europe to Asia and everywhere in between, the Global Game Jam attracts gamers, designers, and developers from every corner of the globe. It's a celebration of innovation, creativity, and the endless possibilities of gaming. 
 
 A link to the offical Global Game Jam site: <a href="https://globalgamejam.org/">Click Here</a>
+
 A link to SUNY Morrisville's Jam site: <a href="https://globalgamejam.org/2023/jam-sites/suny-morrisville-global-game-jam">Click Here</a>
 
 ### Gameplay Screenshots
 
 insert screenshots here. 
 
-Link to GitHub Repository: https://github.com/Aleph-Null-Studios/Garden-Genesis-The-Art-of-Cultivation 
+Link to GitHub Repository: <a href="https://github.com/Aleph-Null-Studios/Garden-Genesis-The-Art-of-Cultivation">Click Here</a>
