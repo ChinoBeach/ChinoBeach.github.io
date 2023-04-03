@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "Welcome to My Profolio!"
+date:   2023-04-03 16:35:30 -0400
+categories: about_me bio blizzard
+---
+
+###About Me: 
+
+##Hi! My name is Chino Beach, and this is my story. 
+
+##Childhood:
+I grew up as an only child in a video game household. My parents loved Nintendo and their products and game, but it did not end there. My parents started playing World of Warcraft (WoW) when its first expansion came out in 2007, the year of the writers' strike. By then, I was 7 years old. I remember my parents playing WoW, with me sitting next to them as they played.
+
+They would send me on a mission to gather herbs or ore for them. I still remember playing on my mom's little gnome with fluffy pink hair and running from plant to plant, excited that she would even let me play. I also remember the first time my parents let me make characters on their accounts so that I could play with one of them. Back then, I didn't know how to spell very well, and one of my first characters became known as BeerStorm, instead of the more age-appropriate “BearStorm”. She was a female Tauren warrior. My parents thought a warrior would be one of the easiest classes for me to learn how to play on my own, as they had been letting me play on their warriors and hunters to start. From there, I was able to join my parent's guild, and it was one of the best feelings in the world, still blissfully unaware of the spelling. 
+
+Soon after, I decided that hunters were my favorite, and I enjoyed the pets. I miss the days running around Eversong Woods, the blood elf starting zone, as my pet Lynx, a feature that has since been removed. Despite this, I liked the idea of being a ranged DPS while someone else was up front doing the fighting. It had nothing to do with the fact that I could feed my pet, walk around with it, or any of those things at all…
+
+Another significant memory was when “Wrath of the Lich King” came out. I remember how excited my parents were and their energy bouncing off and radiating within me. My mother stood in line at GameStop past midnight, waiting for the release. I remember being awestruck by the cinematic that came with the release, with the idea that a character would start off at such a high level, as the Death Knights did. And then being enthralled by the idea of the Death Knights themselves. It was inspiring.
+
+The next big leap or milestone in my childhood was my 13th birthday when I was finally allowed to have my own account, which one of my parent's friends had got for me. This was one of the biggest days I can remember from my childhood, apart from my brother being born 2 years prior. This was the day that launched my gaming career forward.
+
+Of course, we played other games in my childhood as a family. I remember we had a game cube, then the Wii, and the Wii U. Eventually, we would get a PS4 and an Xbox One. My family was also big on Nintendo games, like “Mario Kart” and “The Legend of Zelda: Twilight Princess,” and also enjoyed playing the EA Sims games. However, I don't think any game made such an impact on me as World of Warcraft did.
+
+##School:
+I grew up in a small town that is mostly tight-knit, and had a great school system. In 8th grade, I started taking Latin in middle school. I always found it fascinating that my school district offered this, as few schools did. My mom thought it would be a good idea for me to take Latin because it would help in many different aspects of life and with many different careers. 
+
+Growing up, I really wanted to be an author and loved all of the creative writing assignments that I would get from my teachers. My mom told me that taking Latin would be beneficial if I wanted to continue down this route since many English words are derived from Latin. She also told me that being an author would not be enough and that it was a good side job. 
+
+I continued taking Latin for 3 years, and in high school, I took creative writing more than once as an elective. Then I dabbled in psychology classes because I thought I wanted to be a therapist because the world needs them. However, I had a lot of friends that were taking a programming course at our school that sounded really cool and fun.
+
+I was lucky to attend a high school that offered programming courses. After hearing about it from my friends in the class, I remember coming down during one of my lunch or free periods sometimes to sit in on the class, with the teacher's approval. The next half of the year, I was in programming classes and took as many as I could before graduation. The teacher, a woman and perhaps one of my only female IT teachers, Mrs. Gilbert, is my first real role model and hero in the IT world. She always encouraged me to go far.
+
+We learned about python and made a few games with pygame, and then in another class used XCode to create an application for our phones. These classes sparked something in me, and I developed a deep love for programming. 
+
+After graduation, I knew that I wanted to continue programming and applied to Onondaga Community College to get my associate's Degree in Computer Science. I loved every second of it (at least the ones in my comp sci classes). 
+
+Then Covid-19 hit. It messed some things up, and the timeline got screwed up a little. For reference, I am one of those students who do best in the classroom and ask all of the questions I can. I do not like online learning, which is strange because I like online work. That being said, I took a year off from classes and spent it working and saving up money to put toward my next degree. 
+
+While working, I had a friend who worked for admissions at SUNY Morrisville that told be about a new degree that would be coming out within the next year. A Game Programming Bachelors Degree. 
+
+Instant admissions day came up, and went to Morrisville, spoke with advising, and got accepted all in the same day. We talked about the Game Programming Bachelors Degree. It wasn't in their systems yet, but they assured me that with my A.S. in Computer Science, I could graduate with a Bachelor's in Game Programming within two years. So they accepted me as an Application Software Development student with the promise to switch me over to Game Programming as soon as it was fully in the system as it was a brand new degree program. That was a lie. 
+
+To clarify, I went to the school and am still there at the time of writing this post. (currently in my 3rd semester here) and they told me I could get a B.S. in Game Programming if I wanted to stay longer. I was advised that it would be better to stay on the Application Software Development Path and get a Minor in Game Programming. And then go on to get a Masters in game Programming from somewhere like Rochester Institute of Technology (RIT). So that's the plan and where I am. Currently, I am in my last semester of classes and just need an internship to graduate. I walk the stage in May. I am now talking with a few places to secure my internship, but it's my dream to work at a place like Blizzard.
