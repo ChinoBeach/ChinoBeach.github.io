@@ -5,11 +5,11 @@ date:   2023-04-03 16:35:30 -0400
 categories: about_me bio blizzard
 ---
 
-###About Me: 
+### About Me: 
 
-##Hi! My name is Chino Beach, and this is my story. 
+## Hi! My name is Chino Beach, and this is my story. 
 
-##Childhood:
+## Childhood:
 I grew up as an only child in a video game household. My parents loved Nintendo and their products and game, but it did not end there. My parents started playing World of Warcraft (WoW) when its first expansion came out in 2007, the year of the writers' strike. By then, I was 7 years old. I remember my parents playing WoW, with me sitting next to them as they played.
 
 They would send me on a mission to gather herbs or ore for them. I still remember playing on my mom's little gnome with fluffy pink hair and running from plant to plant, excited that she would even let me play. I also remember the first time my parents let me make characters on their accounts so that I could play with one of them. Back then, I didn't know how to spell very well, and one of my first characters became known as BeerStorm, instead of the more age-appropriate “BearStorm”. She was a female Tauren warrior. My parents thought a warrior would be one of the easiest classes for me to learn how to play on my own, as they had been letting me play on their warriors and hunters to start. From there, I was able to join my parent's guild, and it was one of the best feelings in the world, still blissfully unaware of the spelling. 
@@ -22,7 +22,7 @@ The next big leap or milestone in my childhood was my 13th birthday when I was f
 
 Of course, we played other games in my childhood as a family. I remember we had a game cube, then the Wii, and the Wii U. Eventually, we would get a PS4 and an Xbox One. My family was also big on Nintendo games, like “Mario Kart” and “The Legend of Zelda: Twilight Princess,” and also enjoyed playing the EA Sims games. However, I don't think any game made such an impact on me as World of Warcraft did.
 
-##School:
+## School:
 I grew up in a small town that is mostly tight-knit, and had a great school system. In 8th grade, I started taking Latin in middle school. I always found it fascinating that my school district offered this, as few schools did. My mom thought it would be a good idea for me to take Latin because it would help in many different aspects of life and with many different careers. 
 
 Growing up, I really wanted to be an author and loved all of the creative writing assignments that I would get from my teachers. My mom told me that taking Latin would be beneficial if I wanted to continue down this route since many English words are derived from Latin. She also told me that being an author would not be enough and that it was a good side job. 
