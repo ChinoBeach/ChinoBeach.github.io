@@ -5,9 +5,9 @@ date:   2023-04-03 16:35:30 -0400
 categories: about_me bio blizzard
 ---
 
-### About Me: 
+# About Me: 
 
-## Hi! My name is Chino Beach, and this is my story. 
+### Hi! My name is Chino Beach, and this is my story. 
 
 ## Childhood:
 I grew up as an only child in a video game household. My parents loved Nintendo and their products and game, but it did not end there. My parents started playing World of Warcraft (WoW) when its first expansion came out in 2007, the year of the writers' strike. By then, I was 7 years old. I remember my parents playing WoW, with me sitting next to them as they played.
