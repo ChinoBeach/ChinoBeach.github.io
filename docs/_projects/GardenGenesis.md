@@ -38,11 +38,11 @@ A link to SUNY Morrisville's Jam site: <a href="https://globalgamejam.org/2023/j
 ### Gameplay Screenshots
 <div align="center">
 
-  <img src="/images/gardenTitle.png" alt="Title Screen" width="250" height="300">&nbsp;
-  <img src="/images/nameShop.png" alt="Creating Your Shop" width="250" height="300">&nbsp;
-  <img src="/images/genesisGP1.png" alt="Starting Out" width="250" height="300">&nbsp; 
-  <img src="/images/genesisGP2.png" alt="Mixing Plants" width="250" height="300">&nbsp;
-  <img src="/images/genesisGP3.png" alt="Making Money" width="250" height="300"> 
+  <img src="/images/gardenTitle.png" alt="Title Screen" width="350" height="400">&nbsp;
+  <img src="/images/nameShop.png" alt="Creating Your Shop" width="350" height="400">&nbsp;
+  <img src="/images/genesisGP1.png" alt="Starting Out" width="350" height="400">&nbsp; 
+  <img src="/images/genesisGP2.png" alt="Mixing Plants" width="350" height="400">&nbsp;
+  <img src="/images/genesisGP3.png" alt="Making Money" width="350" height="400"> 
 
 </div>
 Link to GitHub Repository: <a href="https://github.com/Aleph-Null-Studios/Garden-Genesis-The-Art-of-Cultivation">Click Here</a>
