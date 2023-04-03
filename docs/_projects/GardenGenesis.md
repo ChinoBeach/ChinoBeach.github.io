@@ -45,4 +45,6 @@ A link to SUNY Morrisville's Jam site: <a href="https://globalgamejam.org/2023/j
   <img src="/images/genesisGP3.png" alt="Making Money" width="350" height="400"> 
 
 </div>
+
+
 Link to GitHub Repository: <a href="https://github.com/Aleph-Null-Studios/Garden-Genesis-The-Art-of-Cultivation">Click Here</a>
