@@ -10,7 +10,7 @@ This Game was made as part of the Global Game Jam 2023 contest hosted at SUNY Mo
 
 The 2023 Game Jam theme was "Roots," and it inspired the creation of Garden Genesis - a captivating botany plant breeding game that lets you open your very own flower shop and work towards building a comfortable retirement. With Garden Genesis, players can put their botany skills to the test by reproducing and crossbreeding different plant species, creating beautiful and unique blooms that are sure to delight customers. The goal is to sell these beautiful creations and save up enough money for a happy and prosperous retirement. So come and explore the world of Garden Genesis and experience the joys of plant breeding like never before!
 
-To play this game in your browser, follow this link: https://dabvexx.itch.io/garden-genesis-the-art-of-cultivation 
+To play this game in your browser, follow this link: <a href="https://dabvexx.itch.io/garden-genesis-the-art-of-cultivation">Click Here</a> 
 
 ## Contributors
 
@@ -31,8 +31,8 @@ The Global Game Jam is an annual event that brings together thousands of partici
 
 From Europe to Asia and everywhere in between, the Global Game Jam attracts gamers, designers, and developers from every corner of the globe. It's a celebration of innovation, creativity, and the endless possibilities of gaming. 
 
-A link to the offical Global Game Jam site: https://globalgamejam.org/ 
-A link to SUNY Morrisville's Jam site: https://globalgamejam.org/2023/jam-sites/suny-morrisville-global-game-jam 
+A link to the offical Global Game Jam site: <a href="https://globalgamejam.org/">Click Here</a>
+A link to SUNY Morrisville's Jam site: <a href="https://globalgamejam.org/2023/jam-sites/suny-morrisville-global-game-jam">Click Here</a>
 
 ### Gameplay Screenshots
 
