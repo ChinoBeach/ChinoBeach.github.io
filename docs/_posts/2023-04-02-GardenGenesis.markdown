@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Global Game Jam 2023: Garden Gensis"
+date:   2023-04-02 21:35:30 -0400
 categories: game_jam project
 image: 
   path: /images/nameShop.png
