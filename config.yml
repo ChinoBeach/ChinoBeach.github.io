@@ -13,30 +13,29 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-
-# theme: jekyll-theme-so-simple
-remote_theme: mmistakes/so-simple-theme
-
+theme: jekyll-theme-so-simple
+# remote_theme: mmistakes/so-simple-theme
+skin: "/assets/css/skins/dark.css"
 locale: en-US
 title: "Chino Beach Portfolio"
-description: "A Work in Progress"
-baseurl: ""
+description: "A Work In Progress."
+baseurl: # the subpath of your site, e.g. "/blog"
 url: "https://ChinoBeach.github.io"
 logo: "/images/cita113.png"
 date_format: "%B %-d, %Y"
 read_time: true
-words_per_minute: 200
+words_per_minute: # 200
 mathjax:
-  enable: true
-  combo: "tex-svg"
-  tags: "ams"
+  enable: # MathJax equations, e.g. true, false (default)
+  combo:  # "tex-svg" (default), "tex-mml-chtml", etc.: docs.mathjax.org/en/latest/web/components/combined.html
+  tags:  # "none", "ams" (default), "all"
 google_fonts:
   - name: "Source Sans Pro"
     weights: "400,400i,700,700i"
   - name: "Lora"
     weights: "400,400i,700,700i"
-google_analytics: "UA-2011187-2"
-google_site_verification: "UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y"
+google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
+
 
 # Liquid
 liquid:
@@ -49,15 +48,15 @@ feed:
   path: atom.xml
 
 # Pagination - https://jekyllrb.com/docs/pagination/
-paginate: 10
-paginate_path: /page:num/
+# paginate: 10
+# paginate_path: /page:num/
 
 # Search
-search_full_content: false
+search_full_content: false # can have performance implications for large sites
 
 # Taxonomy pages
-category_archive_path: "/categories/#"
-tag_archive_path: "/tags/#"
+# category_archive_path: "/categories/#"
+# tag_archive_path: "/tags/#"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -76,31 +75,15 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-paginate
-  - jekyll-redirect-from
-
-# Collections
-collections:
- projects:
-    output: true
-    permalink: /:collection/:path/
 
 # Front Matter Defaults
 defaults:
-  # Post defaults
+  # Posts defaults
   - scope:
       path: "_posts"
       type: posts
     values:
       layout: post
-      comments: true
-      share: true
-  # Project defaults
-  - scope:
-      path: "_projects"
-      type: projects
-    values:
-      layout: post
-      comments: true
       share: true
 
 # Site Author
@@ -108,17 +91,14 @@ author:
   name: Chino Beach
   picture: "/images/me.jpg"
   email: 18kbeach@gmail.com
- 
   links:
-
     - title: GitHub
       url: https://github.com/chinobeach
       icon: fab fa-github-square
 
+
 # Footer Links
 footer_links:
- 
-  - title: GitHub
-    url: https://github.com/chinobeach
-    icon: fab fa-github-square
- 
+  - title: Feed
+    url: atom.xml
+    icon: fas fa-rss-square
