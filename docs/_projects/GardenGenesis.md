@@ -6,7 +6,7 @@ image:
   caption: "Screenshot from early gameplay taken 02-05-23 by Chino Beach"
 ---
 
-This Game was made as part of the Global Game Jam 2023 contest hosted at SUNY Morrisville.
+This game was made as part of the Global Game Jam 2023 contest hosted at SUNY Morrisville.
 
 The 2023 Game Jam theme was "Roots," and it inspired the creation of Garden Genesis - a captivating botany plant breeding game that lets you open your very own flower shop and work towards building a comfortable retirement. With Garden Genesis, players can put their botany skills to the test by reproducing and crossbreeding different plant species, creating beautiful and unique blooms that are sure to delight customers. The goal is to sell these beautiful creations and save up enough money for a happy and prosperous retirement. So come and explore the world of Garden Genesis and experience the joys of plant breeding like never before!
 
