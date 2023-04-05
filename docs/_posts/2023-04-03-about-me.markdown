@@ -20,6 +20,7 @@ I grew up as an only child in a video game household. My parents loved Nintendo 
 
 </div>
 
+
 They would send me on a mission to gather herbs or ore for them. I still remember playing on my mom's little gnome with fluffy pink hair and running from plant to plant, excited that she would even let me play. I also remember the first time my parents let me make characters on their accounts so that I could play with one of them. Back then, I didn't know how to spell very well, and one of my first characters became known as BeerStorm, instead of the more age-appropriate “BearStorm”. She was a female Tauren warrior. My parents thought a warrior would be one of the easiest classes for me to learn how to play on my own, as they had been letting me play on their warriors and hunters to start. From there, I was able to join my parent's guild, and it was one of the best feelings in the world, still blissfully unaware of the spelling. 
 
 Soon after, I decided that hunters were my favorite, and I enjoyed the pets. I miss the days running around Eversong Woods, the blood elf starting zone, as my pet Lynx, a feature that has since been removed. Despite this, I liked the idea of being a ranged DPS while someone else was up front doing the fighting. It had nothing to do with the fact that I could feed my pet, walk around with it, or any of those things at all…
@@ -51,6 +52,7 @@ After graduation, I knew that I wanted to continue programming and applied to On
 
 </div>
 
+
 Then Covid-19 hit. It messed some things up, and the timeline got screwed up a little. For reference, I am one of those students who do best in the classroom and ask all of the questions I can. I do not like online learning, which is strange because I like online work. That being said, I took a year off from classes and spent it working and saving up money to put toward my next degree. 
 
 <div align="center">
@@ -58,6 +60,7 @@ Then Covid-19 hit. It messed some things up, and the timeline got screwed up a l
   <img src="/images/Morrisville.png" alt="Morrisville Logo" width="75%">&nbsp;
 
 </div>
+
 
 While working, I had a friend who worked for admissions at SUNY Morrisville that told be about a new degree that would be coming out within the next year. A Game Programming Bachelors Degree. 
 
