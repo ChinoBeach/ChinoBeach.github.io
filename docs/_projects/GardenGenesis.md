@@ -7,10 +7,17 @@ image:
 ---
 
 This game was made as part of the Global Game Jam 2023 contest hosted at SUNY Morrisville.
+<a href="https://romesentinel.com/stories/game-jam-helps-students-share-nurture-passion-for-gaming-creating,164432">Read Article About it Here</a> 
+
+---
 
 The 2023 Game Jam theme was "Roots," and it inspired the creation of Garden Genesis - a captivating botany plant breeding game that lets you open your very own flower shop and work towards building a comfortable retirement. With Garden Genesis, players can put their botany skills to the test by reproducing and crossbreeding different plant species, creating beautiful and unique blooms that are sure to delight customers. The goal is to sell these beautiful creations and save up enough money for a happy and prosperous retirement. So come and explore the world of Garden Genesis and experience the joys of plant breeding like never before!
 
+---
+
 To play this game in your browser, follow this link: <a href="https://dabvexx.itch.io/garden-genesis-the-art-of-cultivation">Click Here</a> 
+
+---
 
 ## Contributors
 
@@ -24,6 +31,8 @@ To play this game in your browser, follow this link: <a href="https://dabvexx.it
 
 * Grace Fowler
 * Connor Courtoies 
+
+---
 
 ## A little tid-bit about Game Jams
 
@@ -46,5 +55,18 @@ A link to SUNY Morrisville's Jam site: <a href="https://globalgamejam.org/2023/j
 
 </div>
 
+---
 
 Link to GitHub Repository: <a href="https://github.com/Aleph-Null-Studios/Garden-Genesis-The-Art-of-Cultivation">Click Here</a>
+
+---
+### Images from development
+
+<div align="center">
+
+  <img src="/images/GG1.jpg" alt="Title Inspiration" width="350" height="400">&nbsp;
+  <img src="/images/GG2.jpg" alt="The Boards" width="350" height="400">&nbsp;
+  <img src="/images/GG3.png" alt="Skelton UI" width="350" height="400">
+  
+
+</div>
