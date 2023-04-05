@@ -7,6 +7,7 @@ image:
 ---
 
 This game was made as part of the Global Game Jam 2023 contest hosted at SUNY Morrisville.
+
 <a href="https://romesentinel.com/stories/game-jam-helps-students-share-nurture-passion-for-gaming-creating,164432">Read Article About it Here</a> 
 
 ---

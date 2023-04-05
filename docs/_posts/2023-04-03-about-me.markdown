@@ -9,8 +9,16 @@ categories: about_me bio blizzard
 
 ### Hi! My name is Chino Beach, and this is my story. 
 
+---
+
 ## Childhood:
 I grew up as an only child in a video game household. My parents loved Nintendo and their products and game, but it did not end there. My parents started playing World of Warcraft (WoW) when its first expansion came out in 2007, the year of the writers' strike. By then, I was 7 years old. I remember my parents playing WoW, with me sitting next to them as they played.
+
+<div align="center">
+
+  <img src="/images/BlizzardLogo.png" alt="Blizzard Logo";
+
+</div>
 
 They would send me on a mission to gather herbs or ore for them. I still remember playing on my mom's little gnome with fluffy pink hair and running from plant to plant, excited that she would even let me play. I also remember the first time my parents let me make characters on their accounts so that I could play with one of them. Back then, I didn't know how to spell very well, and one of my first characters became known as BeerStorm, instead of the more age-appropriate “BearStorm”. She was a female Tauren warrior. My parents thought a warrior would be one of the easiest classes for me to learn how to play on my own, as they had been letting me play on their warriors and hunters to start. From there, I was able to join my parent's guild, and it was one of the best feelings in the world, still blissfully unaware of the spelling. 
 
@@ -21,6 +29,8 @@ Another significant memory was when “Wrath of the Lich King” came out. I rem
 The next big leap or milestone in my childhood was my 13th birthday when I was finally allowed to have my own account, which one of my parent's friends had got for me. This was one of the biggest days I can remember from my childhood, apart from my brother being born 2 years prior. This was the day that launched my gaming career forward.
 
 Of course, we played other games in my childhood as a family. I remember we had a game cube, then the Wii, and the Wii U. Eventually, we would get a PS4 and an Xbox One. My family was also big on Nintendo games, like “Mario Kart” and “The Legend of Zelda: Twilight Princess,” and also enjoyed playing the EA Sims games. However, I don't think any game made such an impact on me as World of Warcraft did.
+
+---
 
 ## School:
 I grew up in a small town that is mostly tight-knit, and had a great school system. In 8th grade, I started taking Latin in middle school. I always found it fascinating that my school district offered this, as few schools did. My mom thought it would be a good idea for me to take Latin because it would help in many different aspects of life and with many different careers. 
@@ -35,7 +45,19 @@ We learned about python and made a few games with pygame, and then in another cl
 
 After graduation, I knew that I wanted to continue programming and applied to Onondaga Community College to get my associate's Degree in Computer Science. I loved every second of it (at least the ones in my comp sci classes). 
 
+<div align="center">
+
+  <img src="/images/OCC.jpg" alt="OCC Logo";
+
+</div>
+
 Then Covid-19 hit. It messed some things up, and the timeline got screwed up a little. For reference, I am one of those students who do best in the classroom and ask all of the questions I can. I do not like online learning, which is strange because I like online work. That being said, I took a year off from classes and spent it working and saving up money to put toward my next degree. 
+
+<div align="center">
+
+  <img src="/images/Morrisville.png" alt="Morrisville Logo";
+
+</div>
 
 While working, I had a friend who worked for admissions at SUNY Morrisville that told be about a new degree that would be coming out within the next year. A Game Programming Bachelors Degree. 
 
