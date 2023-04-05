@@ -16,7 +16,7 @@ I grew up as an only child in a video game household. My parents loved Nintendo 
 
 <div align="center">
 
-  <img src="/images/BlizzardLogo.png" alt="Blizzard Logo"width="500" height="400">
+  <img src="/images/BlizzardLogo.png" alt="Blizzard Logo"width="500" height="400">&nbsp;
 
 </div>
 
@@ -47,7 +47,7 @@ After graduation, I knew that I wanted to continue programming and applied to On
 
 <div align="center">
 
-  <img src="/images/occ.jpg" alt="OCC Logo"width="500" height="400">
+  <img src="/images/occ.jpg" alt="OCC Logo"width="500" height="300">&nbsp;
 
 </div>
 
@@ -55,7 +55,7 @@ Then Covid-19 hit. It messed some things up, and the timeline got screwed up a l
 
 <div align="center">
 
-  <img src="/images/Morrisville.png" alt="Morrisville Logo"width="500" height="400">
+  <img src="/images/Morrisville.png" alt="Morrisville Logo"width="500" height="200">&nbsp;
 
 </div>
 
