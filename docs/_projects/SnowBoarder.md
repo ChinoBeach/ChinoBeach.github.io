@@ -7,6 +7,7 @@ image:
 ---
 
 This was the second game that I made at SUNY Morrisville.
+Timeline: Feb 22nd 2022 - March 1st 2022
 
 ---
 
