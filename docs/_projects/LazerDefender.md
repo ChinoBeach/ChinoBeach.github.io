@@ -1,12 +1,12 @@
 ---
-title: "Second Game: Snow Boarder"
+title: "Fifth Game: LazerDefender"
 image: 
-  path: /images/TV1.png
-  thumbnail: /images/TV3.png
-  caption: "Screenshot from gameplay taken 03-01-22 by Chino Beach"
+  path: /images/lazef7.png
+  thumbnail: /images/Rocketship.png
+  caption: "Screenshot from gameplay taken 05-10-22 by Chino Beach"
 ---
 
-This was the fourth game that I made at SUNY Morrisville.
+This was the fifth game that I made at SUNY Morrisville.
 Timeline: April 12th 2022 - April 30th 2022
 
 ---
@@ -15,13 +15,13 @@ This game was created as part of my CITA 212 class at SUNY Morrisville, which wa
 
 ---
 
-Throughout the course, I was able to hone my skills and develop a better understanding of game design principles. This project, in particular, allowed me to work with with tilemaps, transitions and prefabs. I created 4 differnt levels of this platformer to explore and collect coins in.
+Throughout the course, I was able to hone my skills and develop a better understanding of game design principles. This project, in particular, allowed me to create my own sprites and scrolling background. This project also allowed me to learn pathfinder and tought me more about enemy controls. Coroutines were also touched on in this process.
 
-In this game you play as an adventure who can shoot fireballs at the monsters of the world while collecting coins. 
+In this game you play as an spaceship battling aliens with lazers as they attack you on your away across the galaxy.
 
 ---
 
-To play this game in your browser, follow this link: <a href="https://chinobeach.itch.io/tilevania">Click Here</a> 
+To play this game in your browser, follow this link: <a href="https://chinobeach.itch.io/lazer-defender">Click Here</a> 
 
 ---
 
@@ -38,15 +38,41 @@ To play this game in your browser, follow this link: <a href="https://chinobeach
 ### Gameplay Screenshots
 <div align="center">
 
-  <img src="/images/TV2.png" alt="" width="350" height="400">&nbsp;
-  <img src="/images/TV4.png" alt="" width="350" height="400">&nbsp;
-  <img src="/images/TV5.png" alt="" width="350" height="400">&nbsp; 
-  <img src="/images/TV6.png" alt="" width="350" height="400">&nbsp;
-  <img src="/images/TV7.png" alt="" width="350" height="400">&nbsp;
-  <img src="/images/TV8.png" alt="" width="350" height="400"> 
+  <img src="/images/lazef1.png" alt="" width="30%">&nbsp;
+  <img src="/images/lazef2.png" alt="" width="30%">&nbsp;
+  <img src="/images/lazef3.png" alt="" width="30%">&nbsp; 
+  <img src="/images/lazef4.png" alt="" width="30%">&nbsp;
+  <img src="/images/lazef5.png" alt="" width="30%">&nbsp;
+  <img src="/images/lazef6.png" alt="" width="30%">&nbsp;
+  <img src="/images/lazef7.png" alt="" width="30%">&nbsp;
+  <img src="/images/lazef8.png" alt="" width="30%">&nbsp;
+  <img src="/images/lazef9.png" alt="" width="30%">
 
 </div>
 
 ---
 
-Link to GitHub Repository: <a href="https://github.com/ChinoBeach/TileVania">Click Here</a>
+### Sprites I made
+<div align="center">
+
+  <img src="/images/enemylazer.png" alt="" width="45%">&nbsp;
+  <img src="/images/enemyRocket.png" alt="" width="45%">&nbsp;
+  <img src="/images/enemyShip2.png" alt="" width="30%">&nbsp; 
+  <img src="/images/playerlazer.png" alt="" width="30%">&nbsp;
+  <img src="/images/Rocketship.png" alt="" width="30%">
+
+</div>
+
+### Scrolling Background Images I made
+<div align="center">
+
+  <img src="/images/space.png" alt="" width="45%">&nbsp;
+  <img src="/images/space0.png" alt="" width="45%">&nbsp;
+  <img src="/images/space1.png" alt="" width="45%">&nbsp; 
+  <img src="/images/space2r.png" alt="" width="45%">
+
+</div>
+
+---
+
+Link to GitHub Repository: <a href="https://github.com/ChinoBeach/LazerDefender">Click Here</a>
