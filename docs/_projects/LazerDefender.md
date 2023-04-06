@@ -1,7 +1,7 @@
 ---
 title: "Fifth Game: LazerDefender"
 image: 
-  path: /images/lazef7.png
+  path: /images/lazdef7.png
   thumbnail: /images/Rocketship.png
   caption: "Screenshot from gameplay taken 05-10-22 by Chino Beach"
 ---
@@ -38,15 +38,15 @@ To play this game in your browser, follow this link: <a href="https://chinobeach
 ### Gameplay Screenshots
 <div align="center">
 
-  <img src="/images/lazef1.png" alt="" width="30%">&nbsp;
-  <img src="/images/lazef2.png" alt="" width="30%">&nbsp;
-  <img src="/images/lazef3.png" alt="" width="30%">&nbsp; 
-  <img src="/images/lazef4.png" alt="" width="30%">&nbsp;
-  <img src="/images/lazef5.png" alt="" width="30%">&nbsp;
-  <img src="/images/lazef6.png" alt="" width="30%">&nbsp;
-  <img src="/images/lazef7.png" alt="" width="30%">&nbsp;
-  <img src="/images/lazef8.png" alt="" width="30%">&nbsp;
-  <img src="/images/lazef9.png" alt="" width="30%">
+  <img src="/images/lazdef1.png" alt="" width="30%">&nbsp;
+  <img src="/images/lazdef2.png" alt="" width="30%">&nbsp;
+  <img src="/images/lazdef3.png" alt="" width="30%">&nbsp; 
+  <img src="/images/lazdef4.png" alt="" width="30%">&nbsp;
+  <img src="/images/lazdef5.png" alt="" width="30%">&nbsp;
+  <img src="/images/lazdef6.png" alt="" width="30%">&nbsp;
+  <img src="/images/lazdef7.png" alt="" width="30%">&nbsp;
+  <img src="/images/lazdef8.png" alt="" width="30%">&nbsp;
+  <img src="/images/lazdef9.png" alt="" width="30%">
 
 </div>
 
