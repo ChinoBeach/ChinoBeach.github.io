@@ -69,7 +69,7 @@ To play this game in your browser, follow this link: <a href="https://chinobeach
   <img src="/images/space.png" alt="" width="45%">&nbsp;
   <img src="/images/space0.png" alt="" width="45%">&nbsp;
   <img src="/images/space1.png" alt="" width="45%">&nbsp; 
-  <img src="/images/space2r.png" alt="" width="45%">
+  <img src="/images/space2.png" alt="" width="45%">
 
 </div>
 
