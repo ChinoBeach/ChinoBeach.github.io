@@ -47,4 +47,4 @@ To play this game in your browser, follow this link: <a href="https://chinobeach
 
 ---
 
-Link to GitHub Repository: <a href="https://github.com/ChinoBeach/Obstacle-Course/commits/master">Click Here</a>
+Link to GitHub Repository: <a href="https://github.com/ChinoBeach/Obstacle-Course">Click Here</a>
