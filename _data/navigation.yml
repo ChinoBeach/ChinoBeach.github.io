@@ -2,9 +2,7 @@
 
 - title: Home
   url: /
-- title: Posts
+- title: Homes
   url: /posts/
-- title: Categories
-  url: /categories/
 - title: Projects
   url: /projects/
