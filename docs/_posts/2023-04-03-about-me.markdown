@@ -16,8 +16,19 @@ categories: about_me bio blizzard
 ## Childhood:
 I grew up as an only child in a video game household. My parents loved Nintendo and their products and game, but it did not end there. My parents started playing World of Warcraft (WoW) when its first expansion came out in 2007, the year of the writers' strike. By then, I was 7 years old. I remember my parents playing WoW, with me sitting next to them as they played.
 
+<div align="center">
+
+  <img src="/images/gnome.png" alt="mom character remake" width="75%" >&nbsp;
+
+</div>
 
 They would send me on a mission to gather herbs or ore for them. I still remember playing on my mom's little gnome with fluffy pink hair and running from plant to plant, excited that she would even let me play. I also remember the first time my parents let me make characters on their accounts so that I could play with one of them. Back then, I didn't know how to spell very well, and one of my first characters became known as BeerStorm, instead of the more age-appropriate “BearStorm”. She was a female Tauren warrior. My parents thought a warrior would be one of the easiest classes for me to learn how to play on my own, as they had been letting me play on their warriors and hunters to start. From there, I was able to join my parent's guild, and it was one of the best feelings in the world, still blissfully unaware of the spelling. 
+
+<div align="center">
+
+  <img src="/images/beer.png" alt="my character remake" width="75%" >&nbsp;
+
+</div>
 
 Soon after, I decided that hunters were my favorite, and I enjoyed the pets. I miss the days running around Eversong Woods, the blood elf starting zone, as my pet Lynx, a feature that has since been removed. Despite this, I liked the idea of being a ranged DPS while someone else was up front doing the fighting. It had nothing to do with the fact that I could feed my pet, walk around with it, or any of those things at all…
 
