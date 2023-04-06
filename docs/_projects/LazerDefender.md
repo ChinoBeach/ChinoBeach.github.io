@@ -1,9 +1,9 @@
 ---
-title: "Fourth Game: Tile Vania"
+title: "Second Game: Snow Boarder"
 image: 
   path: /images/TV1.png
   thumbnail: /images/TV3.png
-  caption: "Screenshot from gameplay taken 04-30-22 by Chino Beach"
+  caption: "Screenshot from gameplay taken 03-01-22 by Chino Beach"
 ---
 
 This was the fourth game that I made at SUNY Morrisville.
