@@ -10,3 +10,5 @@ This site is a work in progress and will showcase my journey through the Game Pr
 In addition to these class assignments, I may also feature some of my personal projects on this page. As I continue to develop my skills in game programming, this page will serve as a portfolio of my work.
 
 So come along and join me on this exciting adventure into the world of game programming!
+
+<a href="https://chinobeach.github.io/projects/">Continue To Projects Page</a> 
