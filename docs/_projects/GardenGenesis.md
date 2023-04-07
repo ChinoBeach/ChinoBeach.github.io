@@ -1,5 +1,5 @@
 ---
-title: "Global Game Jam 2023: Garden Gensis"
+title: "Global Game Jam 2023: Garden Genesis"
 image: 
   path: /images/nameShop.png
   thumbnail: /images/gardenTitle.png
