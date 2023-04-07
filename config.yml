@@ -88,9 +88,7 @@ defaults:
 
 # Site Author
 author:
-  name: Chino Beach  
-    
-  (They/Them)
+  name: Chino Beach <br /> (They/Them)
   picture: "/images/me.jpg"
   email: 18kbeach@gmail.com
   links:
