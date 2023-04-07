@@ -4,6 +4,7 @@ image:
   path: /images/deliveryDriver2.png
   thumbnail: /images/deliveryDriver1.png
   caption: "Screenshot from gameplay taken 02-15-22 by Chino Beach"
+date:   2022-02-15 16:35:30 -0400
 ---
 
 This was the first game that I made at SUNY Morrisville.

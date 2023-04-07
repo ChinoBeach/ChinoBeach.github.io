@@ -4,6 +4,7 @@ image:
   path: /images/TV1.png
   thumbnail: /images/TV3.png
   caption: "Screenshot from gameplay taken 04-30-22 by Chino Beach"
+date:   2022-04-30 16:35:30 -0400
 ---
 
 This was the fourth game that I made at SUNY Morrisville.

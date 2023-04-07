@@ -4,6 +4,7 @@ image:
   path: /images/pb1.png
   thumbnail: /images/pb3.png
   caption: "Screenshot from gameplay taken 10-01-22 by Chino Beach"
+date:   2022-10-01 16:35:30 -0400
 ---
 
 This was the seventh game that I made at SUNY Morrisville.

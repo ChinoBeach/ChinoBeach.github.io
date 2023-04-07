@@ -4,6 +4,7 @@ image:
   path: /images/nameShop.png
   thumbnail: /images/gardenTitle.png
   caption: "Screenshot from early gameplay taken 02-05-23 by Chino Beach"
+  date:   2023-02-15 16:35:30 -0400
 ---
 
 This game was made as part of the Global Game Jam 2023 contest hosted at SUNY Morrisville.

@@ -4,6 +4,7 @@ image:
   path: /images/snobo1.png
   thumbnail: /images/snobo3.png
   caption: "Screenshot from gameplay taken 03-01-22 by Chino Beach"
+date:   2022-03-22 16:35:30 -0400
 ---
 
 This was the second game that I made at SUNY Morrisville.
