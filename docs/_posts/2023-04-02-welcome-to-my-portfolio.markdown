@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to My Profolio!"
+title:  "Welcome to My Portfolio!"
 date:   2023-04-02 17:28:30 -0400
 categories: first_post
 ---
