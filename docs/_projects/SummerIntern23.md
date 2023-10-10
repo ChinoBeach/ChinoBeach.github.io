@@ -49,7 +49,11 @@ Ho Tung Visualization Lab opened in 2008 and hosts summer internships for studen
 * Helping resolve any issues that arose
 * Adding invisable walls
 
-### Gameplay Screenshots
+### Development Screenshots
+
+## The Court
+The images bellow show how far the level/map has come throughout development.
+
 <div align="center">
 
   <img src="/images/Internship_courtbefore.png" alt="" width="700" height="800">
@@ -60,19 +64,17 @@ Ho Tung Visualization Lab opened in 2008 and hosts summer internships for studen
   
 </div>
 
-  
-<div align="center">
+  Top Image: 1st edition of the court.
 
-  Top Image: 1st edition of the court 
+  Middle Image: A view of a (close to) finished court from within it.
 
-  Middle Image: A view of a (close to) finished court from within it
+  Bottom Image: An aerial view of the map/court.
 
-  Bottom Image: An aerial view of the map/court
-
-</div>
 
 ---
 
+## Playing in the Planetarium
+The images bellow show the camera system and tracking implemented while playing in the planerarium Local Multiplayer.
 <div align="center">
 
   <img src="/images/Internship_dome1.png" alt="" width="700" height="800">
@@ -89,9 +91,21 @@ Ho Tung Visualization Lab opened in 2008 and hosts summer internships for studen
 
 </div>
 
+<div align="center">
+
+ <img src="/images/Internship_dome4.png" alt="" width="700" height="800">
+
+</div>
+
+<div align="center">
+
+  Images of the court for playing in the planetarium from the level editior. 
+
+</div>
 
 ---
-
+## Combat
+Tge images bellow display combat takeing place with event overlaps in LAN multiplayer to stun the opponet
 <div align="center">
 
   <img src="/images/Internship_combat1.png" alt="" width="700" height="800">
@@ -109,7 +123,8 @@ Ho Tung Visualization Lab opened in 2008 and hosts summer internships for studen
 </div>
 
 ---
-
+## Fire
+The images bellow show the fire system we made to improve our graphics within the game. 
 <div align="center">
 
   <img src="/images/Internship_fire1.png" alt="" width="700" height="800">
@@ -126,10 +141,36 @@ Ho Tung Visualization Lab opened in 2008 and hosts summer internships for studen
 
 </div>
 
+## 3D Modeling
+AS an additional benefit of this project I was able to learn some 3D modeling.
+<div align="center">
+
+  <img src="/images/Internship_Head1.png" alt="" width="700" height="800">
+
+  <img src="/images/Internship_Head2.png" alt="" width="700" height="800">
+
+  
+</div>  
+
+<div align="center">
+
+  The first image is my model, the second was used as my refrence. 
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="/images/internship_last.png" alt="" width="700" height="800">
+
+</div>
 
 ### Helpful Resources
 * To see the GameDevTV course followed for this project, follow this link: <a href="https://www.gamedev.tv/courses/enrolled/1394720">Click Here</a> 
 
 ---
+
+
 
 
