@@ -46,13 +46,22 @@ Ho Tung Visualization Lab opened in 2008 and hosts summer internships for studen
 * Implementing both Local and LAN Multiplayer functionality
 * Documentation
 * Camera set up for playing in the planetarium 
-* Helping resolve any issues that arose0 
+* Helping resolve any issues that arose
+* Adding invisable walls
 
 ### Gameplay Screenshots
 <div align="center">
 
   <img src="/images/Internship_courtbefore.png" alt="" width="350" height="400">&nbsp;
-  <img src="/images/deliveryDriver6.png" alt="" width="350" height="400"> 
+  <img src="/images/Internship_courtfromin.png" alt="" width="350" height="400">&nbsp;
+  <img src="/images/Internship_courtfromout.png" alt="" width="350" height="400">
+
+  Top Image: 1st edition of the court 
+  Middle Image: A view of a (close to) finished court from within it
+  Bottom Image: An aerial view of the map/court
+
+
+
 
 </div>
 
