@@ -64,13 +64,68 @@ Ho Tung Visualization Lab opened in 2008 and hosts summer internships for studen
 <div align="center">
 
   Top Image: 1st edition of the court 
+
   Middle Image: A view of a (close to) finished court from within it
+
   Bottom Image: An aerial view of the map/court
 
 </div>
 
 ---
-	
+
+<div align="center">
+
+  <img src="/images/Internship_dome1.png" alt="" width="700" height="800">
+
+  <img src="/images/Internship_dome2.png" alt="" width="700" height="800">
+
+  <img src="/images/Internship_dome3.png" alt="" width="700" height="800">
+  
+</div>  
+
+<div align="center">
+
+  Images of the court from as seen when playing in the planetarium. 
+
+</div>
+
+
+---
+
+<div align="center">
+
+  <img src="/images/Internship_combat1.png" alt="" width="700" height="800">
+
+  <img src="/images/Internship_combat2.png" alt="" width="700" height="800">
+
+  <img src="/images/Internship_combat3.png" alt="" width="700" height="800">
+  
+</div>  
+
+<div align="center">
+
+  Images of the combat implemented within the game (hit to stun opponenet). 
+
+</div>
+
+---
+
+<div align="center">
+
+  <img src="/images/Internship_fire1.png" alt="" width="700" height="800">
+
+  <img src="/images/Internship_fire2.png" alt="" width="700" height="800">
+
+  <img src="/images/Internship_fire3.png" alt="" width="700" height="800">
+  
+</div>  
+
+<div align="center">
+
+  Images of the fire particle systems and 3D modeled braizers.  
+
+</div>
+
 
 ### Helpful Resources
 * To see the GameDevTV course followed for this project, follow this link: <a href="https://www.gamedev.tv/courses/enrolled/1394720">Click Here</a> 
