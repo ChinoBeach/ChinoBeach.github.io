@@ -52,9 +52,9 @@ Ho Tung Visualization Lab opened in 2008 and hosts summer internships for studen
 ### Gameplay Screenshots
 <div align="center">
 
-  <img src="/images/Internship_courtbefore.png" alt="" width="350" height="400">&nbsp;
-  <img src="/images/Internship_courtfromin.png" alt="" width="350" height="400">&nbsp;
-  <img src="/images/Internship_courtfromout.png" alt="" width="350" height="400">
+  <img src="/images/Internship_courtbefore.png" alt="" width="700" height="800">&nbsp;
+  <img src="/images/Internship_courtfromin.png" alt="" width="700" height="800">&nbsp;
+  <img src="/images/Internship_courtfromout.png" alt="" width="700" height="800">
 
   Top Image: 1st edition of the court 
   Middle Image: A view of a (close to) finished court from within it
