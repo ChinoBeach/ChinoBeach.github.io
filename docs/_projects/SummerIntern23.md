@@ -167,17 +167,18 @@ AS an additional benefit of this project I was able to learn some 3D modeling.
 </div>
 
 ### Helpful Resources
-* Fire Simulation, follow this link: <a href=https://www.youtube.com/watch?v=q8avHL7syC4">Click Here</a> 
 
-* LAN Multiplayer Tutorials, follow this link: <a href=https://www.youtube.com/playlist?list=PLzykqv-wgIQXompUswD5iHllUHxGY7w0q">Click Here</a> 
+*Fire Simulation Tutorial, follow this link: <a href="https://www.youtube.com/watch?v=q8avHL7syC4">Click Here</a>
 
-* Another LAN Multiplayer Tutorial: <a href=https://www.youtube.com/playlist?list=PL9z3tc0RL6Z7rISWe-r5DyPopRPJWaITF">Click Here</a>
+* LAN Multiplayer Tutorials, follow this link: <a href="https://www.youtube.com/playlist?list=PLzykqv-wgIQXompUswD5iHllUHxGY7w0q">Click Here</a>
 
-* Local Multiplayer Tutorial pt1, follow this link: <a href=https://www.youtube.com/watch?v=PpGdOCvWk74">Click Here</a> 
+* Another LAN Multiplayer Tutorial: <a href="https://www.youtube.com/playlist?list=PL9z3tc0RL6Z7rISWe-r5DyPopRPJWaITF">Click Here</a>
 
-* Local Multiplayer Tutorial pt2, follow this link: <a href=https://www.youtube.com/watch?v=FJKk92PV8wU">Click Here</a> 
+* Local Multiplayer Tutorial pt1, follow this link: <a href="https://www.youtube.com/watch?v=PpGdOCvWk74">Click Here</a>
 
-* Another Local Multiplayer Tutorial: <a href=https://www.youtube.com/playlist?list=PLVcVWC1bK3YW3-bWyW_M4QYBLM7JQjqyr">Click Here </a>
+* Local Multiplayer Tutorial pt2, follow this link: <a href="https://www.youtube.com/watch?v=FJKk92PV8wU">Click Here</a>
+
+* Another Local Multiplayer Tutorial: <a href="https://www.youtube.com/playlist?list=PLVcVWC1bK3YW3-bWyW_M4QYBLM7JQjqyr">Click Here</a>
 
 ---
 
