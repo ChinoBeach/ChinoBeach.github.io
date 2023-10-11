@@ -43,6 +43,8 @@ Unfortunatly you are unable to play this game in browser as it is property of th
 * Micheal Mansfield
 * Seth Walden
 * Jieni Wu
+
+
 ---
 <div align="center">
 
@@ -62,9 +64,8 @@ Ho Tung Visualization Lab opened in 2008 and hosts summer internships for studen
 
 
 </div>
----
 
-</div>
+---
 
 
 <div align="left">
