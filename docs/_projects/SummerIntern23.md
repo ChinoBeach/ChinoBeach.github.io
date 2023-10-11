@@ -27,7 +27,7 @@ Unfortunatly you are unable to play this game in browser as it is property of th
 
 <div align="center">
 
-<img src="/images/internship_huetzi1.png" alt="" width="350" height="84">
+<img src="/images/Internship_hoTung.png" alt="" width="350" height="84">
 
 
 </div>
@@ -139,7 +139,7 @@ The images bellow show the camera system and tracking implemented while playing 
 
 ---
 ## Combat
-Tge images bellow display combat takeing place with event overlaps in LAN multiplayer to stun the opponet
+Tge images bellow display combat taking place with event overlaps in LAN multiplayer to stun the opponet
 <div align="center">
 
   <img src="/images/Internship_combat1.png" alt="" width="700" height="800">
