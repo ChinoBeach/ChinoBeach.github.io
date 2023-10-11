@@ -53,7 +53,7 @@ Unfortunatly you are unable to play this game in browser as it is property of th
 ---
 <div align="center">
 
-	<img src="/images/Internship_poster.png" alt="" width="700" height="800">
+<img src="/images/Internship_poster.png" alt="" width="700" height="800">
 
 </div>
 --- 
