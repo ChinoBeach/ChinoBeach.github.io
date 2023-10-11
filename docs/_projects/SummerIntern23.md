@@ -69,6 +69,8 @@ Ho Tung Visualization Lab opened in 2008 and hosts summer internships for studen
 * Helping resolve any issues that arose
 * Adding invisable walls
 
+
+</div> 
 ### Development Screenshots
 
 ## The Court
