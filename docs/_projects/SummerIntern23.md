@@ -36,7 +36,7 @@ Unfortunatly you are unable to play this game in browser as it is property of th
 
 ---
 
-test
+test2
 
 ## Contributors
 * Chino Beach
