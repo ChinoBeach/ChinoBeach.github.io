@@ -23,6 +23,15 @@ In this game you are taken back to ancient Mayan times to partake in their ritua
 
 Unfortunatly you are unable to play this game in browser as it is property of the Colgate Visualization Lab, and not my own. 
 
+---
+
+<div align="center">
+
+<img src="/images/intern_3.png" alt="" width="700" height="400">
+
+
+</div>
+
 
 ## Contributors
 * Chino Beach
@@ -33,12 +42,6 @@ Unfortunatly you are unable to play this game in browser as it is property of th
 * Seth Walden
 * Jieni Wu
 
-<div align="center">
-
-<img src="/images/intern_3.png" alt="" width="350" height="400">
-
-
-</div>
 
 
 ### About The Vis Lab
