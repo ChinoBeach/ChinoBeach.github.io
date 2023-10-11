@@ -25,18 +25,13 @@ Unfortunatly you are unable to play this game in browser as it is property of th
 
 ---
 
-
-
 <div align="center">
 
-<img src="/images/internship_huetzi1.png" alt="logo" width="350" height="85">
+<img src="/images/Internship_hoTung.png" alt="" width="350" height="400">
+
 
 </div>
 
-
----
-
-test66
 
 ## Contributors
 * Chino Beach
@@ -47,16 +42,15 @@ test66
 * Seth Walden
 * Jieni Wu
 
-
 ---
+
 
 <div align="center">
 
-<img src="/images/internship_poster1" alt="poster made by me" width="700" height="800">
+<img src="/images/Internship_hoTung.png" alt="" width="350" height="400">
+
 
 </div>
-
---- 
 
 ### About The Vis Lab
 Ho Tung Visualization Lab opened in 2008 and hosts summer internships for students looking to do videogame development. Ho Tung also hosts science field trips as well as opperating as an academic lab. It holds Colgate Universitiy's Planetrium and is considered part of the IT department.
