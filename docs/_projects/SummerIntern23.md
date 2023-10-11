@@ -74,7 +74,7 @@ The images bellow show how far the level/map has come throughout development.
 ---
 
 ## Playing in the Planetarium
-The images bellow show the camera system and tracking implemented while playing in the planerarium Local Multiplayer.
+The images bellow show the camera system and tracking implemented while playing in the planetarium Local Multiplayer.
 <div align="center">
 
   <img src="/images/Internship_dome1.png" alt="" width="700" height="800">
@@ -127,9 +127,9 @@ Tge images bellow display combat takeing place with event overlaps in LAN multip
 The images bellow show the fire system we made to improve our graphics within the game. 
 <div align="center">
 
-  <img src="/images/Internship_fire1.png" alt="" width="700" height="800">
+  <img src="/images/Internship_fire1.png" alt="" width="350" height="400">
 
-  <img src="/images/Internship_fire2.png" alt="" width="700" height="800">
+  <img src="/images/Internship_fire2.png" alt="" width="350" height="400">
 
   <img src="/images/Internship_fire3.png" alt="" width="700" height="800">
   
@@ -145,9 +145,9 @@ The images bellow show the fire system we made to improve our graphics within th
 AS an additional benefit of this project I was able to learn some 3D modeling.
 <div align="center">
 
-  <img src="/images/Internship_Head1.png" alt="" width="700" height="800">
+  <img src="/images/Internship_Head1.png" alt="" width="350" height="400">
 
-  <img src="/images/Internship_Head2.png" alt="" width="700" height="800">
+  <img src="/images/Internship_Head2.png" alt="" width="350" height="400">
 
   
 </div>  
@@ -168,7 +168,7 @@ AS an additional benefit of this project I was able to learn some 3D modeling.
 
 ### Helpful Resources
 
-*Fire Simulation Tutorial, follow this link: <a href="https://www.youtube.com/watch?v=q8avHL7syC4">Click Here</a>
+* Fire Simulation Tutorial, follow this link: <a href="https://www.youtube.com/watch?v=q8avHL7syC4">Click Here</a>
 
 * LAN Multiplayer Tutorials, follow this link: <a href="https://www.youtube.com/playlist?list=PLzykqv-wgIQXompUswD5iHllUHxGY7w0q">Click Here</a>
 
