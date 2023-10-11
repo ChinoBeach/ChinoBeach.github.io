@@ -25,14 +25,12 @@ Unfortunatly you are unable to play this game in browser as it is property of th
 
 ---
 
-<div align="center">
+
 
 <img src="/images/Internship_huetzi.png" alt="" width="700" height="800">
 
-</div>
 
 ---
-
 
 
 ## Contributors
@@ -46,11 +44,9 @@ Unfortunatly you are unable to play this game in browser as it is property of th
 
 
 ---
-<div align="center">
 
-<img src="/images/Internship_poster.png" alt="" width="700" height="800">
+<img src="/images/Internship_poster" alt="" width="700" height="800">
 
-</div>
 --- 
 
 ### About The Vis Lab
@@ -67,10 +63,8 @@ Ho Tung Visualization Lab opened in 2008 and hosts summer internships for studen
 
 ---
 
-
-<div align="left">
-
 ### My Responsibilities on the Project
+
 * Learning how to operate and utilize unreal engine 5 with blueprints
 * Managing our Git Hub Repository as well as handling merges and teaching the team how to use Git Hub and Git Hub Desktop
 * Project Management and Kanban Boards
@@ -81,7 +75,7 @@ Ho Tung Visualization Lab opened in 2008 and hosts summer internships for studen
 * Adding invisable walls
 
 
-</div> 
+
 
 ---
 
