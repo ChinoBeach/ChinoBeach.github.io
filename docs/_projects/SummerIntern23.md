@@ -28,6 +28,7 @@ Unfortunatly you are unable to play this game in browser as it is property of th
 
 
 <img src="/images/Internship_huetzi.png" alt="" width="700" height="800">
+<img src="/images/Internship_poster" alt="" width="700" height="800">
 
 
 ---
@@ -45,7 +46,7 @@ Unfortunatly you are unable to play this game in browser as it is property of th
 
 ---
 
-<img src="/images/Internship_poster" alt="" width="700" height="800">
+
 
 --- 
 
