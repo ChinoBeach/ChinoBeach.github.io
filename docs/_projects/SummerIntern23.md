@@ -27,7 +27,7 @@ Unfortunatly you are unable to play this game in browser as it is property of th
 
 <div align="center">
 
-<img src="/images/internship_huetzi1.png" alt="" width="350" height="84">
+<img src="/images/Internship_hoTung.png" alt="" width="350" height="84">
 
 
 </div>
@@ -49,7 +49,7 @@ Unfortunatly you are unable to play this game in browser as it is property of th
 
 <div align="center">
 
-<img src="/images/internship_poster1.png" alt="" width="522" height="767">
+<img src="/images/Internship_hoTung.png" alt="" width="522" height="767">
 
 
 </div>
