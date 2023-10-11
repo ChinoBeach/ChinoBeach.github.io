@@ -37,19 +37,12 @@ Unfortunatly you are unable to play this game in browser as it is property of th
 
 ## Contributors
 * Chino Beach
-
 * Henry Crespi
-
 * Sam Larson
-
 * Bergen Linden
-
 * Micheal Mansfield
-
 * Seth Walden
-
 * Jieni Wu
-
 ---
 <div align="center">
 
