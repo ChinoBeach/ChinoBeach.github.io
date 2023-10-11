@@ -23,17 +23,6 @@ In this game you are taken back to ancient Mayan times to partake in their ritua
 
 Unfortunatly you are unable to play this game in browser as it is property of the Colgate Visualization Lab, and not my own. 
 
----
-
-<div align="center">
-
-<img src="/images/intern_2.png" alt="" width="350" height="84">
-
-
-</div>
-
----
-
 
 ## Contributors
 * Chino Beach
@@ -44,17 +33,13 @@ Unfortunatly you are unable to play this game in browser as it is property of th
 * Seth Walden
 * Jieni Wu
 
----
-
-
 <div align="center">
 
-<img src="/images/Internship_intern_1.png" alt="" width="522" height="767">
+<img src="/images/intern_3.png" alt="" width="350" height="400">
 
 
 </div>
 
----
 
 ### About The Vis Lab
 Ho Tung Visualization Lab opened in 2008 and hosts summer internships for students looking to do videogame development. Ho Tung also hosts science field trips as well as opperating as an academic lab. It holds Colgate Universitiy's Planetrium and is considered part of the IT department.
